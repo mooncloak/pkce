@@ -1,4 +1,4 @@
-# argon2
+# pkce
 
 A Kotlin multiplatform implementation Proof key for Code Exchange (PKCE).
 
