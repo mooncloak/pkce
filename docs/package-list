@@ -1,0 +1,29 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.mooncloak.kodetools.pkce////PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/index.md
+$dokka.location:com.mooncloak.kodetools.pkce//Default/com.mooncloak.kodetools.pkce.VerifierTransformer.Companion#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-default.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallenge.Companion///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge/-companion/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallenge///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallenge/CodeChallenge/#kotlin.String/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge/-code-challenge.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallenge/value/#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge/value.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod.Companion///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/-companion/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod.Companion/Plain/#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/-companion/-plain.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod.Companion/S256/#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/-companion/-s256.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod/CodeChallengeMethod/#kotlin.String/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/-code-challenge-method.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeChallengeMethod/value/#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-challenge-method/value.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeVerifier.Companion///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-verifier/-companion/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeVerifier///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-verifier/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeVerifier/CodeVerifier/#kotlin.String/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-verifier/-code-verifier.md
+$dokka.location:com.mooncloak.kodetools.pkce/CodeVerifier/value/#/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-code-verifier/value.md
+$dokka.location:com.mooncloak.kodetools.pkce/ExperimentalPkceApi///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-experimental-pkce-api/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/Pkce///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-pkce/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/Pkce/Pkce/#kotlin.io.encoding.Base64#kotlin.random.Random#com.mooncloak.kodetools.pkce.VerifierTransformer/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-pkce/-pkce.md
+$dokka.location:com.mooncloak.kodetools.pkce/Pkce/createCodeChallenge/#com.mooncloak.kodetools.pkce.CodeVerifier#com.mooncloak.kodetools.pkce.CodeChallengeMethod/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-pkce/create-code-challenge.md
+$dokka.location:com.mooncloak.kodetools.pkce/Pkce/generateCodeVerifier/#kotlin.Int/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-pkce/generate-code-verifier.md
+$dokka.location:com.mooncloak.kodetools.pkce/Pkce/isValid/#com.mooncloak.kodetools.pkce.CodeVerifier#com.mooncloak.kodetools.pkce.CodeChallenge#com.mooncloak.kodetools.pkce.CodeChallengeMethod/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-pkce/is-valid.md
+$dokka.location:com.mooncloak.kodetools.pkce/VerifierTransformer.Companion///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-verifier-transformer/-companion/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/VerifierTransformer///PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-verifier-transformer/index.md
+$dokka.location:com.mooncloak.kodetools.pkce/VerifierTransformer/transform/#com.mooncloak.kodetools.pkce.CodeChallengeMethod#kotlin.ByteArray/PointingToDeclaration/pkce-core/pkce-core/com.mooncloak.kodetools.pkce/-verifier-transformer/transform.md
+module:pkce-core
+com.mooncloak.kodetools.pkce
